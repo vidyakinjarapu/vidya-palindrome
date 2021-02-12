@@ -1,0 +1,23 @@
+{
+  "name": "vidya-palindrome",
+  "version": "0.1.0",
+  "description": "palindrome detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vidyakinjarapu/vidya-palindrome.git"
+  },
+  "keywords": [
+    "vidya-palindrome",
+    "oalindrome"
+  ],
+  "author": "vidya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vidyakinjarapu/vidya-palindrome/issues"
+  },
+  "homepage": "https://github.com/vidyakinjarapu/vidya-palindrome#readme"
+}
