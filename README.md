@@ -1,5 +1,6 @@
 # vidya-palindrome
 This is a sample NPM module created for palindrome detector project while learning java script & automated testing.
+with testing tool *MOCHA*
 
 The module can be used as follows:
 
